@@ -53,7 +53,7 @@ fun LoginScreen(){
 
         Spacer(modifier = Modifier.height(8.dp))
 
-        Text(text = "Sign Up with Your Account")
+        Text(text = "Sign In with Your Account")
 
         Spacer(modifier = Modifier.height(16.dp))
 
