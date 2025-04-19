@@ -1,6 +1,5 @@
 package com.example.mylogin
 
-import android.R.attr.tag
 import android.util.Log
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
