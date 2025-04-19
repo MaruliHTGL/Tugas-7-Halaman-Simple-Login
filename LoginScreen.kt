@@ -89,7 +89,7 @@ fun LoginScreen(){
         Spacer(modifier = Modifier.height(16.dp))
 
         Button(onClick = { Log.i("Credential", "NRP: $nrp Password: $password") }) {
-            Text(text = "Sign Up")
+            Text(text = "Sign In")
         }
 
         Spacer(modifier = Modifier.height(32.dp))
